@@ -49,6 +49,9 @@ fun kDataType(){
     println("kAny2=$kAny2")
     println("kAny3=$kAny3")
     println("kAny4=$kAny4")
+    println("kAny4=$kAny4")
+    println("kAny4=$kAny4")
+    println("kAny4=$kAny4")
 
 
 }
